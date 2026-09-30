@@ -1,0 +1,12 @@
+{
+  "name": "Lingo 5 英语学习",
+  "short_name": "Lingo 5",
+  "description": "每天 5 个单词，2 段长句，第二天科学复习。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6ff",
+  "theme_color": "#5b4cf0",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
